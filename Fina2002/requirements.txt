@@ -1,0 +1,11 @@
+numpy
+pandas
+pyarrow
+scipy
+scikit-learn
+statsmodels
+matplotlib
+PyYAML
+requests
+pyqlib
+polars
